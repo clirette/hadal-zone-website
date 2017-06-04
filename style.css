@@ -33,7 +33,6 @@ html {
 				0px 18px 23px rgba(0,0,0,0.1);
 }
 
-#forOpenIFrame {
-	display: none;
-	margin: 300px auto;
+.disclaimer {
+	margin-top: 10px;
 }
