@@ -18,10 +18,15 @@
 .webgl-content .footer .fullscreen {background-image: url('fullscreen.png'); width: 38px; float: right;}
 
 body {
+<<<<<<< HEAD
 	background: url(underwater.jpg);
 	background-size: cover;
 	background-attachment: fixed;
 	background-position: center;
 	background-repeat: no-repeat;
 
+=======
+	background: url(http://img-aws.ehowcdn.com/877x500p/photos.demandstudios.com/getty/article/235/24/158696701.jpg);
+	background-size: cover;
+>>>>>>> f8f7006851c1d62975ed532776c451f5f7d3e41f
 }
