@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "HadalTestBuild.data.unityweb",
+"asmCodeUrl": "HadalTestBuild.asm.code.unityweb",
+"asmMemoryUrl": "HadalTestBuild.asm.memory.unityweb",
+"asmFrameworkUrl": "HadalTestBuild.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
